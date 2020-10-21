@@ -1,2 +1,3 @@
 # BinkA2Wav
-Converts Bink Audio files to WAV files.
+Orginaly made by angelsl and GMMan on XeNTaX
+
