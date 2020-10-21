@@ -1,0 +1,3 @@
+U:\codify\BinkA2Wav\BinkA2Wav\bin\Release\BinkA2Wav.exe
+U:\codify\BinkA2Wav\BinkA2Wav\obj\Release\ResolveAssemblyReference.cache
+U:\codify\BinkA2Wav\BinkA2Wav\obj\Release\BinkA2Wav.exe
